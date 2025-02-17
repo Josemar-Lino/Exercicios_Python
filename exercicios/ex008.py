@@ -11,3 +11,6 @@ from math import sqrt
 n = int(input('Digite um numero:'))
 r = sqrt(n)
 print('A rais é {}'.format(r))
+
+
+### Digite um número e mostre a raiz quadrada dele

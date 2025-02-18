@@ -6,7 +6,7 @@ Este repositório contém uma coleção de exercícios de Python que estou utili
 
 O repositório é organizado por tópicos, com cada pasta contendo exercícios sobre um conceito específico. A estrutura do diretório pode ser parecida com o seguinte:
 - exercicios
-- desafios
+- exercicios/desafios
 
 ## Como Usar
 

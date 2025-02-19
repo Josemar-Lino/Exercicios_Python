@@ -1,5 +1,5 @@
 import emoji
-print(emoji.emojize("Olá Mundo :sunglasses:"))
 
+print(emoji.emojize("Olá Mundo :sunglasses:"))
 
 ## exibe emoji

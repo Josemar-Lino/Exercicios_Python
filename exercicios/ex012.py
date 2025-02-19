@@ -10,4 +10,4 @@ cateto2 = float(input("Digite o segundo cateto: "))
 hipotenusa = calcular_hipotenusa(cateto1, cateto2)
 print(f"A hipotenusa é: {hipotenusa:.2f}")
 
-## ler os catetos e calcule a hipotenusa
+## ler os catetos e calcula a hipotenusa
